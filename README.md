@@ -1,6 +1,6 @@
 # Birthday_Greet
 
-
+Simple as well as awesome android application which take the name and within a single button click, with the help of handle the click events in Android generates a birthday greet. This app also helps to understand how to pass data from one intent to the next intent at the developer level.
 
 
 ![Screenshot_1612811698](https://user-images.githubusercontent.com/71607183/107269810-24ba4280-6a70-11eb-9b29-33b5e23bf542.png)
